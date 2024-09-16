@@ -1,6 +1,6 @@
 <template>
   <div class="search container">
-    <h2 class="text-center">Find Your Drink</h2>
+    <h2 class="text-center">{{ $t('search.findYourDrink') }}</h2>
     <RecipeFind />
   </div>
 </template>
